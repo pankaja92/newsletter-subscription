@@ -1,0 +1,10 @@
+.root {
+  overflow: hidden;
+  margin-top: 200px;
+}
+
+.wrapper {
+  width: 400px;
+  margin: auto;
+  padding: auto;
+}
